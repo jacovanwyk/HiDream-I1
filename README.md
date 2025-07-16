@@ -9,6 +9,7 @@
 <span style="color: #FF5733; font-weight: bold">For more features and to experience the full capabilities of our product, please visit [https://vivago.ai/](https://vivago.ai/).</span>
 
 ## Project Updates
+- 🌟 **July 16, 2025**: We've open-sourced the updated image editing model [**HiDream-E1-1**](https://github.com/HiDream-ai/HiDream-E1).
 - 📝 **May 28, 2025**: We've released our technical report [HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer](https://arxiv.org/abs/2505.22705).
 - 🚀 **April 28, 2025**: We've open-sourced the instruction-based-image-editing model [**HiDream-E1-Full**](https://github.com/HiDream-ai/HiDream-E1). Experience at [https://huggingface.co/spaces/HiDream-ai/HiDream-E1-Full](https://huggingface.co/spaces/HiDream-ai/HiDream-E1-Full)!. 
 - 🤗 **April 11, 2025**: HiDream is now officially supported in the `diffusers` library. Check out the docs [here](https://huggingface.co/docs/diffusers/main/en/api/pipelines/hidream).
